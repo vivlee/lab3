@@ -43,4 +43,9 @@ body {
 
 .project a {
      text-align: center;
+
+div.image {
+   content:url(https://www.petfinder.com/wp-content/uploads/2012/11/99059361-choose-cat-litter-632x475.jpg);
+}​
+
 }
